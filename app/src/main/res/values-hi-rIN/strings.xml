@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"कॉफी आर्डर "</string>
+    <string name="name">नाम</string>
+    <string name="toppings">उपरी परत</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="order">आदेश करे</string>
+    <string name="order_summary_whipped_cream">क्रीम जोड़ें? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_price">कुल: $<xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="thankyou">धन्यवाद!</string>
+    <string name="zerodollar">$0</string>
+    <string name="plus">+</string>
+    <string name="_1">1</string>
+    <string name="minus">-</string>
+    <string name="quantity">"मात्रा: "</string>
+    <string name="order_summary_name">नाम: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_quantity">मात्रा: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_chocolate">चॉकलेट जोड़ें = <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="OrderSummary">"आर्डर सारांश "</string>
+</resources>
